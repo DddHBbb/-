@@ -1,0 +1,4 @@
+﻿  factorialRemainder.c
+D:\FakeC\2\Project1\factorialRemainder.c(92,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\FakeC\2\Project1\factorialRemainder.c(130,9): warning C4101: “i”: 未引用的局部变量
+  Project1.vcxproj -> D:\FakeC\2\Project1\x64\Debug\Project1.exe
